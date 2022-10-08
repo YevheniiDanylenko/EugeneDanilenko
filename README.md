@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EugeneDanilenko/
 - 👀 I’m interested in science, math, culture, history, psychology, physical training.
-- 🌱 I’m currently learning Java Script, HTML and CSS.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java and Standford CS.
 - 📫 How to reach me 
 my telegram: https://t.me/Euge_92
 
